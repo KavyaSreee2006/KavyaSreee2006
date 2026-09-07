@@ -1,10 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:2C3E50,100:4CA1AF&height=200&section=header&text=Kavya%20Sree%20S%20S&fontSize=44&fontColor=fff&fontAlignY=42&desc=Full%20Stack%20Developer%20•%20CSE%20Undergrad%20•%20React.js%20%26%20Java&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=220&section=header&text=Kavya%20Sree%20S%20S&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 
-<a href="https://www.linkedin.com/in/kavya-sree-ss/"><img src="https://img.shields.io/badge/LinkedIn-2C3E50?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kavyasreesundar9@gmail.com"><img src="https://img.shields.io/badge/Email-4CA1AF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://kavyasree-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=4CA1AF&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer;CSE+Undergrad+%40+Dr.NGP+Institute+of+Technology;React.js+%2B+Java+Enthusiast" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/kavya-sree-ss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kavyasreesundar9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://kavyasree-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://github.com/KavyaSreee2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=KavyaSreee2006&color=4ca1af&style=for-the-badge&label=PROFILE+VIEWS" />
 
