@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. HERO BANNER -->
-<img width="100%" src="https://capsulerender.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kavya%20Sree%20S%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20React.js%20%26%20Java&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsulerender.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=180&section=header&text=Kavya%20Sree%20S%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20React.js%20%26%20Java&descAlignY=62&descSize=16" />
 
 <!-- 2. TYPING HEADER -->
 <a href="#">
@@ -128,9 +128,9 @@ class KavyaSree {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Online Vehicle Rental System](https://github.com/KavyaSreee2006/Online-Vechicle-Rental-System)** <br/>2023 – 2024 | `HTML` `CSS` `JavaScript` | Full booking & authentication platform with vehicle search; managed customer and vehicle records via a database system |
+| **[Online Vehicle Rental System](https://github.com/KavyaSreee2006)** <br/>2023 – 2024 | `HTML` `CSS` `JavaScript` | Full booking & authentication platform with vehicle search; managed customer and vehicle records via a database system |
 | **IoT-Based Smart Garbage Monitoring System** <br/>2024 – 2025 | `IoT` `Ultrasonic Sensor` `Wireless Communication` | Real-time monitoring of garbage levels and bin capacity; improved waste collection efficiency through automation |
-| **[Real-Time Public Transport Tracking System](https://github.com/KavyaSreee2006/bus-tracking-system)** <br/>2025 – 2026 | `GPS` `Mobile Networks` `Web Technologies` | GPS-based tracking with ETA prediction; delivered real-time location updates and reduced passenger waiting time |
+| **Real-Time Public Transport Tracking System** <br/>2025 – 2026 | `GPS` `Mobile Networks` `Web Technologies` | GPS-based tracking with ETA prediction; delivered real-time location updates and reduced passenger waiting time |
 
 </div>
 
@@ -185,5 +185,5 @@ class KavyaSree {
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer&animation=twinkling" />
 </div>
