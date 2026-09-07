@@ -1,138 +1,157 @@
 <div align="center">
-<!-- 1. HERO BANNER -->
-<img width="100%" src="https://capsulerender.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kavya%20Sree%20S%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20React.js%20%26%20Java&descAlignY=62&descSize=16" />
-<!-- 2. TYPING HEADER -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Kavya+Sree+%F0%9F%91%8B;Full+Stack+Developer+%7C+React.js+%2B+Java;CSE+Undergrad+%40+Dr.+N.G.P+Institute+of+Technology;Building+responsive+web+apps+%26+IoT+solutions" alt="Typing SVG" />
-</a>
-<br/>
-<a href="https://www.linkedin.com/in/kavya-sree-ss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kavyasreesundar9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://kavyasree-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-38BDAE?style=flat-square&logo=netlify&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=KavyaSreee2006&color=70a5fd&style=flat-square&label=Profile+Views" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:2C3E50,100:4CA1AF&height=200&section=header&text=Kavya%20Sree%20S%20S&fontSize=44&fontColor=fff&fontAlignY=42&desc=Full%20Stack%20Developer%20•%20CSE%20Undergrad%20•%20React.js%20%26%20Java&descAlignY=60&descSize=16" />
+
+<a href="https://www.linkedin.com/in/kavya-sree-ss/"><img src="https://img.shields.io/badge/LinkedIn-2C3E50?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kavyasreesundar9@gmail.com"><img src="https://img.shields.io/badge/Email-4CA1AF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://kavyasree-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=KavyaSreee2006&color=4ca1af&style=for-the-badge&label=PROFILE+VIEWS" />
+
 </div>
+
 <br/>
-<!-- 3. CODE-BLOCK ABOUT ME -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-```java
-class KavyaSree {
-    private String name = "Kavya Sree S S";
-    private String role = "Full Stack Development Intern";
-    private String degree = "B.E. Computer Science and Engineering";
-    private String college = "Dr. N.G.P Institute of Technology";
 
-    private String[] stack = {
-        "Java", "C", "HTML", "CSS",
-        "JavaScript", "React.js", "JDBC", "MySQL"
-    };
+## 👩‍💻 Quick Facts
 
-    private String[] currentlyLearning = {
-        "Machine Learning", "Deep Learning", "Cloud Computing"
-    };
-
-    private String funFact =
-        "I've built everything from an IoT garbage " +
-        "monitoring system to a GPS-based transit tracker!";
-
-    public String motto() {
-        return "Quick learner, strong teammate, " +
-               "always shipping something new.";
-    }
-}
+```yaml
+name: "Kavya Sree S S"
+role: "Full Stack Development Intern @ Ether Infotech"
+education: "B.E. Computer Science and Engineering, Dr. N.G.P Institute of Technology"
+graduation: 2027
+cgpa: 8.69
+languages_spoken: ["Tamil", "English"]
+currently_learning: ["Machine Learning", "Deep Learning", "Cloud Computing"]
+ask_me_about: ["React.js", "Full Stack Development", "IoT", "Databases"]
+fun_fact: "I've built a rental platform, an IoT garbage monitor, and a GPS transit tracker — one semester at a time."
 ```
-<br/><br/><br/><br/>
-<!-- 4. TECH BADGES -->
-🛠️ Tech Stack
-Languages
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-Frameworks
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-Cloud & DevOps
-<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=internetcomputer&logoColor=white" />
-Databases
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/JDBC-336791?style=flat-square&logo=databricks&logoColor=white" />
-Tools
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
 <br/>
-<!-- 5 & 6. GITHUB STATS + TOP LANGUAGES -->
+
+## 🧰 Skills
+
 <div align="center">
-<a href="https://github.com/KavyaSreee2006">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KavyaSreee2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-</a>
-<a href="https://github.com/KavyaSreee2006">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaSreee2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</a>
-<!-- 7. STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=KavyaSreee2006&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-<!-- 8. ACTIVITY GRAPH -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KavyaSreee2006&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-<!-- 9. TROPHY WALL -->
-<img src="https://github-profile-trophy.vercel.app/?username=KavyaSreee2006&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+
+<img src="https://skillicons.dev/icons?i=java,c,html,css,js,react,mysql,git,github,vscode&theme=dark" />
+
 </div>
+
+<table align="center">
+<tr>
+<th>Category</th>
+<th>Stack</th>
+</tr>
+<tr>
+<td><b>Languages</b></td>
+<td>Java, C</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>HTML, CSS, JavaScript, React.js</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>JDBC, MySQL</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>VS Code, Git, GitHub</td>
+</tr>
+<tr>
+<td><b>Focus Area</b></td>
+<td>Full Stack Development</td>
+</tr>
+</table>
+
 <br/>
-<!-- 10. WORK EXPERIENCE -->
-💼 Work Experience
-<details>
-<summary><b>Full Stack Development Intern @ Ether Infotech</b> — 2025</summary>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KavyaSreee2006&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff00&title_color=2C3E50&icon_color=4CA1AF&text_color=333333" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaSreee2006&layout=donut&theme=graywhite&hide_border=true&bg_color=ffffff00&title_color=2C3E50&text_color=333333&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=KavyaSreee2006&theme=default&hide_border=true&background=FFFFFF00&ring=4CA1AF&fire=2C3E50&currStreakLabel=2C3E50" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KavyaSreee2006&theme=minimal&bg_color=ffffff00&color=2C3E50&line=4CA1AF&point=2C3E50&area=true&hide_border=true" />
+
+</div>
+
 <br/>
-> `HTML` `CSS` `JavaScript` `React.js` `Debugging` `Software Best Practices`
-Developed responsive web applications using HTML, CSS, JavaScript, and React.js
-Implemented frontend components and integrated backend functionalities
-Collaborated on real-world projects, enhancing debugging skills and code quality
-Applied software development best practices throughout project implementation
+
+## 🧭 Experience Timeline
+
+<table>
+<tr>
+<td width="120"><b>2025</b></td>
+<td>
+<b>Full Stack Development Intern</b> — Ether Infotech<br/>
+Built responsive web apps with HTML/CSS/JS/React.js, wired up frontend components to backend services, and sharpened debugging skills on real client work.
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🗂️ Project Portfolio
+
+<details open>
+<summary><b>🚌 Real-Time Public Transport Tracking System</b> <sub>2025–2026</sub></summary>
+<br/>
+
+`GPS` `Mobile Networks` `Web Technologies`
+
+GPS-based vehicle tracking with ETA prediction — gives passengers real-time location updates and cuts down waiting time.
 </details>
+
+<details>
+<summary><b>♻️ IoT-Based Smart Garbage Monitoring System</b> <sub>2024–2025</sub></summary>
 <br/>
-<!-- 11. FEATURED PROJECTS -->
-🚀 Featured Projects
-<div align="center">
-Project	Stack	Highlights
-Online Vehicle Rental System <br/>2023 – 2024	`HTML` `CSS` `JavaScript`	Full booking & authentication platform with vehicle search; managed customer and vehicle records via a database system
-IoT-Based Smart Garbage Monitoring System <br/>2024 – 2025	`IoT` `Ultrasonic Sensor` `Wireless Communication`	Real-time monitoring of garbage levels and bin capacity; improved waste collection efficiency through automation
-Real-Time Public Transport Tracking System <br/>2025 – 2026	`GPS` `Mobile Networks` `Web Technologies`	GPS-based tracking with ETA prediction; delivered real-time location updates and reduced passenger waiting time
-</div>
+
+`IoT` `Ultrasonic Sensor` `Wireless Communication`
+
+Sensor-driven waste monitoring that tracks bin capacity in real time and improves collection efficiency through automation.
+</details>
+
+<details>
+<summary><b>🚗 Online Vehicle Rental System</b> <sub>2023–2024</sub></summary>
 <br/>
-<!-- 12. ACHIEVEMENTS -->
-🏆 Achievements & Certifications
-<div align="center">
-🎖️	Achievement	Details
-🧩	Bash Bliss Hackathon	Collaborative event at PSG Institute of Technology — sharpened technical, teamwork, and problem-solving skills
-💻	CIT Hackathon	Participated in a competitive hackathon conducted at CIT
-📜	MongoDB Fundamentals	Certification
-🤖	Machine Learning Onramp	Certification
-🧠	Deep Learning Onramp	Certification
-☁️	Cloud Computing	NPTEL Certification
-📡	Introduction to Internet of Things	NPTEL Certification
-🏗️	Modeling of Building Environment	Bentley Certification
-🏛️	Modeling Structures with Analytical Modeler	Bentley Certification
-</div>
+
+`HTML` `CSS` `JavaScript`
+
+Full rental management platform — user authentication, vehicle search, booking flow, and a database backing customer/vehicle records.
+</details>
+
 <br/>
-<!-- 13. EDUCATION -->
-🎓 Education
-<div align="center">
-Degree	Institution	Year	Score
-B.E. Computer Science and Engineering	Dr. N.G.P Institute of Technology	2023 – 2027	CGPA: 8.69 (through 6th sem)
-Higher Secondary Education	Vidhya Nethra Matriculation Higher Secondary School	2023	87%
-Secondary Education	Vidhya Nethra Matriculation Higher Secondary School	2020 – 2021	100%
-</div>
-📚 Currently Learning
-```
-🤖 Machine Learning     → Onramp completed, exploring core algorithms
-🧠 Deep Learning        → Onramp completed, diving into neural networks
-☁️  Cloud Computing      → NPTEL fundamentals → hands-on deployment
-🌐 IoT                  → Sensors & wireless comms → smarter systems
-```
-🗣️ Languages Known
-`Tamil` `English`
+
+## 🏅 Achievements & Certifications
+
+<table align="center">
+<tr><td>🧩</td><td><b>Bash Bliss Hackathon</b></td><td>PSG Institute of Technology — team-based technical challenge</td></tr>
+<tr><td>💻</td><td><b>CIT Hackathon</b></td><td>Participant</td></tr>
+<tr><td>📜</td><td><b>MongoDB Fundamentals</b></td><td>Certification</td></tr>
+<tr><td>🤖</td><td><b>Machine Learning Onramp</b></td><td>Certification</td></tr>
+<tr><td>🧠</td><td><b>Deep Learning Onramp</b></td><td>Certification</td></tr>
+<tr><td>☁️</td><td><b>Cloud Computing</b></td><td>NPTEL Certification</td></tr>
+<tr><td>📡</td><td><b>Intro to Internet of Things</b></td><td>NPTEL Certification</td></tr>
+<tr><td>🏗️</td><td><b>Modeling of Building Environment</b></td><td>Bentley Certification</td></tr>
+<tr><td>🏛️</td><td><b>Modeling Structures with Analytical Modeler</b></td><td>Bentley Certification</td></tr>
+</table>
+
 <br/>
+
+## 🎓 Education
+
+<table align="center">
+<tr><th>Degree</th><th>Institution</th><th>Year</th><th>Score</th></tr>
+<tr><td>B.E. Computer Science and Engineering</td><td>Dr. N.G.P Institute of Technology</td><td>2023–2027</td><td>CGPA 8.69</td></tr>
+<tr><td>Higher Secondary Education</td><td>Vidhya Nethra Matriculation Higher Secondary School</td><td>2023</td><td>87%</td></tr>
+<tr><td>Secondary Education</td><td>Vidhya Nethra Matriculation Higher Secondary School</td><td>2020–2021</td><td>100%</td></tr>
+</table>
+
+<br/>
+
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:2C3E50,100:4CA1AF&height=120&section=footer" />
 </div>
