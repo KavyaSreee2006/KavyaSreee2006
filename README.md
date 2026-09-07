@@ -230,21 +230,13 @@ Full rental management platform — user authentication, vehicle search, booking
 
 <br/>
 
-## 📈 Learning Journey
+## 🌱 Currently Learning
 
 <div align="center">
 
-**Machine Learning** `Onramp completed` <br/>
-![](https://progress-bar.xyz/70/?title=progress&color=4CA1AF&width=350)
-
-**Deep Learning** `Onramp completed` <br/>
-![](https://progress-bar.xyz/65/?title=progress&color=2C3E50&width=350)
-
-**Cloud Computing** `NPTEL fundamentals done` <br/>
-![](https://progress-bar.xyz/55/?title=progress&color=4CA1AF&width=350)
-
-**React.js & Full Stack Dev** `Actively building` <br/>
-![](https://progress-bar.xyz/85/?title=progress&color=2C3E50&width=350)
+<img src="https://img.shields.io/badge/Machine%20Learning-2C3E50?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-4CA1AF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud%20Computing-2C3E50?style=for-the-badge&logo=icloud&logoColor=white" />
 
 </div>
 
