@@ -174,12 +174,14 @@ Built responsive web apps with HTML/CSS/JS/React.js, wired up frontend component
 ## 🗂️ Project Portfolio
 
 <details open>
-<summary><b>🚌 Real-Time Public Transport Tracking System</b> <sub>2025–2026</sub></summary>
+<summary><b>🚌 <a href="https://github.com/KavyaSreee2006/bus-tracking-system">Real-Time Public Transport Tracking System</a></b> <sub>2025–2026</sub></summary>
 <br/>
 
 `GPS` `Mobile Networks` `Web Technologies`
 
 GPS-based vehicle tracking with ETA prediction — gives passengers real-time location updates and cuts down waiting time.
+
+🔗 **[View Repository →](https://github.com/KavyaSreee2006/bus-tracking-system)**
 </details>
 
 <details>
@@ -192,12 +194,14 @@ Sensor-driven waste monitoring that tracks bin capacity in real time and improve
 </details>
 
 <details>
-<summary><b>🚗 Online Vehicle Rental System</b> <sub>2023–2024</sub></summary>
+<summary><b>🚗 <a href="https://github.com/KavyaSreee2006/Online-Vechicle-Rental-System">Online Vehicle Rental System</a></b> <sub>2023–2024</sub></summary>
 <br/>
 
 `HTML` `CSS` `JavaScript`
 
 Full rental management platform — user authentication, vehicle search, booking flow, and a database backing customer/vehicle records.
+
+🔗 **[View Repository →](https://github.com/KavyaSreee2006/Online-Vechicle-Rental-System)**
 </details>
 
 <br/>
