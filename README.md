@@ -8,7 +8,49 @@
 
 <img src="https://komarev.com/ghpvc/?username=KavyaSreee2006&color=4ca1af&style=for-the-badge&label=PROFILE+VIEWS" />
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C3E50,100:4CA1AF&height=3&width=1000" />
+
 </div>
+
+<br/>
+
+## 🌟 About Me
+
+<table align="center">
+<tr>
+<td width="60%" valign="top">
+
+I'm a Computer Science undergrad who genuinely loves turning ideas into things that work — whether that's a booking flow, a sensor pipeline, or a live map of a bus that's running late. I care about clean, responsive interfaces just as much as I care about the logic humming underneath them.
+
+🔭 Currently building full-stack projects with **React.js** and **Java**
+🌱 Currently deepening my skills in **Machine Learning, Deep Learning & Cloud Computing**
+💡 Driven by real-world problems — smart waste systems, live transit tracking, and beyond
+🤝 Open to internships, collaborations, and anything that lets me build & learn
+⚡ Fun fact: every one of my projects started as *"wouldn't it be cool if..."*
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> *"Quick learner, strong teammate, always shipping something new."*
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C3E50,100:4CA1AF&height=3&width=1000" />
+</div>
+
 
 <br/>
 
@@ -63,6 +105,24 @@ fun_fact: "I've built a rental platform, an IoT garbage monitor, and a GPS trans
 </tr>
 </table>
 
+<div align="center">
+
+**💫 Soft Skills**
+
+<img src="https://img.shields.io/badge/Leadership-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/Teamwork-4CA1AF?style=flat-square" />
+<img src="https://img.shields.io/badge/Flexibility-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/Responsibility-4CA1AF?style=flat-square" />
+<img src="https://img.shields.io/badge/Quick%20Learning-2C3E50?style=flat-square" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C3E50,100:4CA1AF&height=3&width=1000" />
+</div>
+
 <br/>
 
 ## 📊 GitHub Analytics
@@ -76,6 +136,17 @@ fun_fact: "I've built a rental platform, an IoT garbage monitor, and a GPS trans
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KavyaSreee2006&theme=minimal&bg_color=ffffff00&color=2C3E50&line=4CA1AF&point=2C3E50&area=true&hide_border=true" />
 
+<br/><br/>
+
+<!-- Contribution snake — activate via GitHub Actions (platane/snk) on your repo to make this live -->
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C3E50,100:4CA1AF&height=3&width=1000" />
 </div>
 
 <br/>
@@ -91,6 +162,12 @@ Built responsive web apps with HTML/CSS/JS/React.js, wired up frontend component
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C3E50,100:4CA1AF&height=3&width=1000" />
+</div>
 
 <br/>
 
@@ -125,6 +202,12 @@ Full rental management platform — user authentication, vehicle search, booking
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C3E50,100:4CA1AF&height=3&width=1000" />
+</div>
+
+<br/>
+
 ## 🏅 Achievements & Certifications
 
 <table align="center">
@@ -141,6 +224,38 @@ Full rental management platform — user authentication, vehicle search, booking
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C3E50,100:4CA1AF&height=3&width=1000" />
+</div>
+
+<br/>
+
+## 📈 Learning Journey
+
+<div align="center">
+
+**Machine Learning** `Onramp completed` <br/>
+![](https://progress-bar.xyz/70/?title=progress&color=4CA1AF&width=350)
+
+**Deep Learning** `Onramp completed` <br/>
+![](https://progress-bar.xyz/65/?title=progress&color=2C3E50&width=350)
+
+**Cloud Computing** `NPTEL fundamentals done` <br/>
+![](https://progress-bar.xyz/55/?title=progress&color=4CA1AF&width=350)
+
+**React.js & Full Stack Dev** `Actively building` <br/>
+![](https://progress-bar.xyz/85/?title=progress&color=2C3E50&width=350)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C3E50,100:4CA1AF&height=3&width=1000" />
+</div>
+
+<br/>
+
 ## 🎓 Education
 
 <table align="center">
@@ -149,6 +264,24 @@ Full rental management platform — user authentication, vehicle search, booking
 <tr><td>Higher Secondary Education</td><td>Vidhya Nethra Matriculation Higher Secondary School</td><td>2023</td><td>87%</td></tr>
 <tr><td>Secondary Education</td><td>Vidhya Nethra Matriculation Higher Secondary School</td><td>2020–2021</td><td>100%</td></tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Let's Connect & Build Something
+
+I'm always up for a good conversation about code, projects, or new ideas — reach out and let's make something great.
+
+<a href="https://www.linkedin.com/in/kavya-sree-ss/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-2C3E50?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kavyasreesundar9@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-4CA1AF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://kavyasree-portfolio.netlify.app/"><img src="https://img.shields.io/badge/View%20Portfolio-2C3E50?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+
+<br/><br/>
+
+*Thanks for stopping by — go build something awesome.* ✨
+
+</div>
 
 <br/>
 
